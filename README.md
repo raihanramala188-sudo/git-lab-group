@@ -1,1 +1,2 @@
-# git-lab-group
+Hello Git Lab
+# Git Lab Group Project
